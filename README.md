@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Perkenalkan nama saya **Achmad Zhafran Hilmy Ramadhan**.  
+Saya merupakan mahasiswa semester 6 Sistem Informasi di Universitas Brawijaya.  
+Saat ini saya sedang menempuh pendidikan di Bangkit Academy.
 <!--
 **Jajapran/Jajapran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
