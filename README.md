@@ -1,4 +1,5 @@
 ### Hi!
+I'm Zhafran, A fresh graduate in Information Systems from Brawijaya University with a strong interest in fields related to data processing, data analysis, data visualization, and artificial intelligence. Skilled in data processing tools such as Microsoft Excel, SQL, and Python, supporting work in these fields. Highly motivated, a fast learner, reliable, and flexible, with strong attention to precision and a willingness to learn new things and opportunities for self-development.
 <!--
 **Jajapran/Jajapran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
